@@ -1,0 +1,14 @@
+setup.py
+oddsScraper/__init__.py
+oddsScraper/items.py
+oddsScraper/pipelines.py
+oddsScraper/settings.py
+oddsScraper/spiders/__init__.py
+oddsScraper/spiders/football.py
+oddsScraper/spiders/horse.py
+oddsScraper/spiders/odds.py
+project.egg-info/PKG-INFO
+project.egg-info/SOURCES.txt
+project.egg-info/dependency_links.txt
+project.egg-info/entry_points.txt
+project.egg-info/top_level.txt
